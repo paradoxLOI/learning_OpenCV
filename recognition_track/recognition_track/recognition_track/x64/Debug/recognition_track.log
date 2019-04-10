@@ -1,0 +1,7 @@
+﻿  mean_shift_track.cpp
+  recognition_track.cpp
+d:\study\探测原理\研究性作业\2019-04-11\code\recognition_track\recognition_track\recognition_track\recognition_track.cpp(24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\study\探测原理\研究性作业\2019-04-11\code\recognition_track\recognition_track\recognition_track\recognition_track.cpp(26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\study\探测原理\研究性作业\2019-04-11\code\recognition_track\recognition_track\recognition_track\recognition_track.cpp(74): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  recognition_track.vcxproj -> D:\study\探测原理\研究性作业\2019-04-11\code\recognition_track\recognition_track\x64\Debug\recognition_track.exe
